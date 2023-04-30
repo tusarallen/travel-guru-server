@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "card-title": "Cox’s  Bazar",
+    "description": "Cox's Bazar is a city, fishing port, tourism centre and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach, and it ...",
+    "card-image": "../images/Rectangle-1.jpg"
+  },
+  {
+    "id": 2,
+    "card-title": "Sreemangal",
+    "description": "Sreemangal is known for its tea gardens, Lawachara National Park, hiking, historic temples, local cuisine, and cultural heritage. It's a must-visit destination for nature lovers and foodies...",
+    "card-image": "../images/Sreemongol.png"
+  },
+  {
+    "id": 3,
+    "card-title": "Sundarbans",
+    "description": "The Sundarbans, in Bangladesh, is the world's largest mangrove forest and a UNESCO World Heritage Site. Home to the Bengal tiger, it offers boat safaris, wildlife watching, and a unique eco-tourism experience....",
+    "card-image": "../images/sundorbon.png"
+  },
+  {
+    "id": 4,
+    "card-title": "Sajek",
+    "description": "Sajek, in Bangladesh, is a scenic hill station located in the Chittagong Hill Tracts. With breathtaking views, trekking trails, and a glimpse into the tribal culture, it's a popular destination for adventure seekers and nature lovers....",
+    "card-image": "../images/Sajek.png"
+  }
+]

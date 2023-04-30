@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image_viewer": "../images/hotel-1 (1).jpg",
+    "categories_id": 1,
+    "title": "Hotel Sea World",
+    "description": "Hotel rooms usually have one or more beds, ranging from twin to king-sized, depending on the room type.",
+    "ratings": 4.5,
+    "amount": 10
+  },
+  {
+    "id": 2,
+    "image_viewer": "../images/hotel-1 (2).jpg",
+    "categories_id": 2,
+    "title": "Hillside Resort",
+    "description": "Clean sheets, pillows, and blankets are provided for guests to ensure a comfortable and restful sleep.",
+    "ratings": 3.5,
+    "amount": 12.89
+  },
+  {
+    "id": 3,
+    "image_viewer": "../images/hotel-1 (3).jpg",
+    "categories_id": 1,
+    "title": "Hotel Sea Crown",
+    "description": "A private bathroom is usually included in a hotel room, complete with a shower or bathtub, sink, and toilet.",
+    "ratings": 4,
+    "amount": 8.99
+  },
+  {
+    "id": 4,
+    "image_viewer": "../images/hotel-1 (4).jpg",
+    "categories_id": 2,
+    "title": "Shoilo Propat Resort",
+    "description": "Clean towels are provided for guests to use during their stay.",
+    "ratings": 4.8,
+    "amount": 14.4
+  },
+  {
+    "id": 5,
+    "image_viewer": "../images/hotel-1 (5).jpg",
+    "categories_id": 1,
+    "title": "Hotel Sea Alif",
+    "description": "Hotels often provide basic toiletries such as soap, shampoo, and conditioner, as well as other amenities such as a hairdryer, shower cap, and vanity kit.",
+    "ratings": 3.9,
+    "amount": 7.75
+  },
+  {
+    "id": 6,
+    "image_viewer": "../images/hotel-1 (6).jpg",
+    "categories_id": 2,
+    "title": "Hotel Green Hill",
+    "description": "A closet or wardrobe is provided for guests to store their clothes and belongings.",
+    "ratings": 4.2,
+    "amount": 19.9
+  },
+  {
+    "id": 7,
+    "image_viewer": "../images/hotel-1 (7).jpg",
+    "categories_id": 3,
+    "title": "Grand Hotel & Sea Resort",
+    "description": "Many hotel rooms come equipped with a desk and chair for guests who need to work or study during their stay.",
+    "ratings": 3.7,
+    "amount": 5.4
+  },
+  {
+    "id": 8,
+    "image_viewer": "../images/hotel-1 (8).jpg",
+    "categories_id": 4,
+    "title": "hotel  Meridon",
+    "description": "A television is often provided in hotel rooms for guests to watch their favorite shows or movies.",
+    "ratings": 4.6,
+    "amount": 20.79
+  },
+  {
+    "id": 9,
+    "image_viewer": "../images/hotel-1 (9).jpg",
+    "categories_id": 4,
+    "title": "hotel SAINT MARTIN",
+    "description": "A telephone may be provided in the room for guests to make local or international calls.",
+    "ratings": 3.3,
+    "amount": 15.39
+  },
+  {
+    "id": 10,
+    "image_viewer": "../images/Rectangle 26.png",
+    "categories_id": 4,
+    "title": "hotel  SAINT MARTIN",
+    "description": "Many hotel rooms come with a mini-fridge or minibar, allowing guests to store and cool their own food and beverages.",
+    "ratings": 4.9,
+    "amount": 17.9
+  },
+  {
+    "id": 11,
+    "image_viewer": "../images/Rectangle 27.png",
+    "categories_id": 3,
+    "title": "Hotel Sagar Kannya",
+    "description": " Most hotels offer room service, which allows guests to order food and beverages to their room.",
+    "ratings": 4.9,
+    "amount": 19.29
+  },
+  {
+    "id": 12,
+    "image_viewer": "../images/Rectangle 28.png",
+    "categories_id": 3,
+    "title": "Hotel Mishuk International",
+    "description": "Hotels usually have air conditioning and heating in the room to ensure a comfortable temperature for guests.",
+    "ratings": 4.9,
+    "amount": 12.9
+  }
+]
